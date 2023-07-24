@@ -63,6 +63,8 @@ window.onload=()=>{
   stage.appendChild(taskContainer);
  
    eventInput.value="";
+
+    stage.scrollTo(0,stage.scrollHeight);
    
    
   //CASE 2.2(Delete key event function);

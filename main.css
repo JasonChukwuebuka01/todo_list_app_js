@@ -142,5 +142,7 @@ padding-left:20px;
     }
     #stage{
         margin-top:70px;
+        height: 50vh;
+     
     }
 }

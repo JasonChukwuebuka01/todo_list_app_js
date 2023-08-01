@@ -137,7 +137,9 @@ padding-left:20px;
 
 
 @media (max-width:480px){
-    
+    body{
+      padding-bottom:50px;
+    }
     #stage{
         margin-top:70px;
     }
